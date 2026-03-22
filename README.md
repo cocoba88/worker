@@ -1,3 +1,5 @@
+Pairip Patcher 
+
 Notes:
 - Root required. For non-rooted users, please use VPhonegaga.
 - This tool only removes pairip from dex. If there is still pairip in the libs, you need to replace or patch the lib manually
